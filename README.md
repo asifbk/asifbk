@@ -4,11 +4,11 @@
       <h3>🔥 My Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbk&theme=dracula" />
     </td>
-    <td style="padding-left: 30px;">
+    <td style="padding-left: 50px;">
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true&theme=tokyonight" />
     </td>
-    <td style="padding-left: 30px; vertical-align: top;">
+    <td style="padding-left: 60px; vertical-align: top;">
       <h3>📈 Citations</h3>
       <a href="https://scholar.google.com/citations?user=vOcYv8AAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=Google-Scholar&style=flat-square" />
