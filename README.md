@@ -12,8 +12,7 @@
       <h3>📈 Citations</h3>
       <a href="https://scholar.google.com/citations?user=vOcYv8AAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=Google-Scholar&style=flat-square" />
-      </a>
-      
+      </a> 
       <h3 style="margin-top: 20px;">🔬 ResearchGate</h3>
       <a href="https://www.researchgate.net/profile/Asif-Bin-Karim?ev=hdr_xprf" target="_blank">
         <img src="https://img.shields.io/badge/ResearchGate-Research-green?style=flat-square&logo=researchgate" />
