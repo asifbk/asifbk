@@ -7,4 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true&theme=tokyonight)
 ### 📈 Citations
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=Google-Scholar&style=flat-square)]([https://scholar.google.com/citations?user=XXXXXXXXXXX](https://scholar.google.com/citations?user=vOcYv8AAAAAJ&hl=en))
+### 🔬 ResearchGate
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research-green?style=flat-square&logo=researchgate)]([https://www.researchgate.net/profile/YourName](https://www.researchgate.net/profile/Asif-Bin-Karim?ev=hdr_xprf))
+
 
