@@ -6,7 +6,7 @@
     </td>
     <td style="padding-left: 50px;">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true&theme=onedark" />
     </td>
     <td style="padding-left: 60px; vertical-align: top;">
       <h3>📈 Citations</h3>
