@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h3>🔥 My Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbk&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifbk&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
     <td style="padding-left: 50px;">
       <h3>📊 GitHub Stats</h3>
