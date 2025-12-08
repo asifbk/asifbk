@@ -3,21 +3,7 @@
 ## 📊 GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbk&theme=default)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifbk&theme=default" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asifbk&theme=default" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asifbk&theme=default" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asifbk&theme=default" width="400" />
-</p>
-
 </div>
-
----
-
 <div align="center">
 
 ## 🔬 Research & Publications
