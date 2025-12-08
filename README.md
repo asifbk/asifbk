@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="font-family: Georgia, serif;">📊 GitHub Statistics</h2>
+<h2 style="font-family:Cambria, serif;">📊 GitHub Statistics</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbk&theme=default)
 
