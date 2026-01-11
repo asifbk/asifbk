@@ -2,7 +2,7 @@
 
 ## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbk)
 
 </div>
 
