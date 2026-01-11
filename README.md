@@ -2,7 +2,8 @@
 
 ## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbk)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifbk&theme=github)
+
 
 </div>
 
