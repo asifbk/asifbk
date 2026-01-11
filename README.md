@@ -1,7 +1,8 @@
 <div align="center">
 
 ## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤
-![Asif’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifbk&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asifbk&layout=compact)
+
 </div>
 
 <div align="center">
